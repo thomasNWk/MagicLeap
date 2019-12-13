@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Too big
+Content/Seaside_Town/
+LeapUnrealModules/Content/Seaside_Town/
+
+LeapUnrealModules/Saved/
