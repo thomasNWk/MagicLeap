@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LeapModules-0016.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\LeapModulesEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\PlayerLeapComponent.cpp.obj"
+"C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\LeapModules.cpp.obj"
+"C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\LeapModules.init.gen.cpp.obj"
+"C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\PlayerLeapComponent.gen.cpp.obj"
+"C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\Default.rc2.res"
+/OUT:"C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\UE4Editor-LeapModules-0016.lib"
+/INCLUDE:IMPLEMENT_MODULE_LeapModules

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LeapModules.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8E6B5D8F-5153-4E41-88C2-984685F17FAC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LeapModules.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LeapModulesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\LICENSE" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{0F98D7DD-31DC-4DE4-A769-53B3AB48F9C8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LeapModules">
+      <UniqueIdentifier>{23925AFD-18A8-48B3-B46E-690FB4070715}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LeapModules\LeapModules.Build.cs">
+      <Filter>Source\LeapModules</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LeapModules\LeapModules.cpp">
+      <Filter>Source\LeapModules</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LeapModules\LeapModules.h">
+      <Filter>Source\LeapModules</Filter>
+    </ClInclude>
+    <Filter Include="Source\LeapModules\Private">
+      <UniqueIdentifier>{1E574F43-A40E-493A-8153-2E8DEF94CC91}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LeapModules\Private\PlayerLeapComponent.cpp">
+      <Filter>Source\LeapModules\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\LeapModules\Public">
+      <UniqueIdentifier>{F1A36012-5200-4ACC-ACFA-0E3BDD771853}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LeapModules\Public\PlayerLeapComponent.h">
+      <Filter>Source\LeapModules\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\PROJET\MagicLeap).
+  Parsing headers for LeapModulesEditor
+    Running UnrealHeaderTool "C:\PROJET\MagicLeap\LeapUnrealModules\LeapModules.uproject" "C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\LeapModulesEditor\Development\LeapModulesEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for LeapModulesEditor in 8.8753283 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 4 processes...
+    [1/5] PlayerLeapComponent.cpp
+    [2/5] PlayerLeapComponent.gen.cpp
+    [3/5] UE4Editor-LeapModules-0021.lib
+       Creation de la bibliotheque C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\UE4Editor-LeapModules-0021.lib et de l'objet C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\UE4Editor-LeapModules-0021.exp
+    [4/5] UE4Editor-LeapModules-0021.dll
+       Creation de la bibliotheque C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\UE4Editor-LeapModules-0021.suppressed.lib et de l'objet C:\PROJET\MagicLeap\LeapUnrealModules\Intermediate\Build\Win64\UE4Editor\Development\LeapModules\UE4Editor-LeapModules-0021.suppressed.exp
+    [5/5] LeapModulesEditor.target
+  Total time in Parallel executor: 3.32 seconds
+  Total execution time: 13.40 seconds
